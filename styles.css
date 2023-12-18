@@ -1,4 +1,27 @@
 body{
     margin: 0;
     padding: 0;
+    background-image: linear-gradient(to right, #14141c , #3834c4);
+}
+
+.img{
+    height: 120px;
+    width: 500px;
+    padding-left: 50px;
+}
+
+.landing{
+    padding-top: 100px;
+    padding-left: 50px;
+}
+.head1{
+    padding-top: 0;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-size: 5rem;
+
+}
+
+.img1{
+    border-radius: 50%;
 }
